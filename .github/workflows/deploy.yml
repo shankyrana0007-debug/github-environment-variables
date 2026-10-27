@@ -10,7 +10,7 @@ jobs:
   test:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.blm8oq4.mongodb.net
-      MONGODB_USERNAME: poonamsingh24121993_db_user@admin
+      MONGODB_USERNAME: poonamsingh24121993_db_user
       MONGODB_PASSWORD: JlZU7NCd7qn7DN0L
       PORT: 8080
     environment: testing
